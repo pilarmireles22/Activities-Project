@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vdCicNiliDS1JXyyMLcXc00WcpUnP2KYZbHmPrShj/2UjvHNZ/DXo8XKjSNfcy4Q5VxOVqSbLlYsjpmxwHlqcA==",
+  "dgSpecHash": "XqxMli5UGZKv1QrA+yDtHlmLeNkNqux3HUzsGvGyU7rKZMlEi6nwxm+QzH5cd1TCQLiKr2MnldHvZOv4hn/Akg==",
   "success": true,
   "projectFilePath": "C:\\Users\\pilar\\source\\repos\\Activities-Project\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
@@ -21,6 +21,7 @@
     "C:\\Users\\pilar\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\pilar\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\pilar\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\pilar\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512",
     "C:\\Users\\pilar\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.6\\sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
     "C:\\Users\\pilar\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
     "C:\\Users\\pilar\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.6\\sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
