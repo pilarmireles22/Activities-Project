@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pilar\\source\\repos\\Activities-Project\\Reactivities\\persistence\\Persistence.csproj": {}
+    "C:\\Users\\pilar\\source\\repos\\Activities-Project\\Reactivities\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
     "C:\\Users\\pilar\\source\\repos\\Activities-Project\\Reactivities\\Domain\\Domain.csproj": {
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\pilar\\source\\repos\\Activities-Project\\Reactivities\\persistence\\Persistence.csproj": {
+    "C:\\Users\\pilar\\source\\repos\\Activities-Project\\Reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pilar\\source\\repos\\Activities-Project\\Reactivities\\persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\pilar\\source\\repos\\Activities-Project\\Reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\pilar\\source\\repos\\Activities-Project\\Reactivities\\persistence\\Persistence.csproj",
+        "projectPath": "C:\\Users\\pilar\\source\\repos\\Activities-Project\\Reactivities\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\pilar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pilar\\source\\repos\\Activities-Project\\Reactivities\\persistence\\obj\\",
+        "outputPath": "C:\\Users\\pilar\\source\\repos\\Activities-Project\\Reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pilar\\AppData\\Roaming\\NuGet\\NuGet.Config",

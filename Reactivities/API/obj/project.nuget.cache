@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xcw+CDshG56RD1qHk/0U2dNcsgloKqwlMG6cKrTJRRau6LODmzu7Jwb2rIWYhVzFqNIea3TwP0p+70TvQq4LLg==",
+  "dgSpecHash": "HRvzdiqKdvMYhWdvxzvbhISv2F7xpsuKTQx4EqRf8mMoUon1HKkN8ientci+3qhnY5zljscGdx8JKGpiRMeW3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pilar\\source\\repos\\Activities-Project\\Reactivities\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\pilar\\source\\repos\\Activities-Project\\Reactivities\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pilar\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\pilar\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.9\\microsoft.data.sqlite.core.6.0.9.nupkg.sha512",

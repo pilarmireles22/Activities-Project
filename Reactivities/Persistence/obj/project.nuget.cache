@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SbrQfKTmOkcEjxR4hoECgrDATLmoC66KKOReGPscRL8uUnf+GYm7/+li/2xmrRaZq8ZoqaIGKdnqF9RNxMh1Ng==",
+  "dgSpecHash": "cLSnqGNI0JWxhm+W3DVoxDyQpkNiZNWtjaJ1lKKyzX7QZ/6oMUoeKjiCrA2mYFeUVe6fopzJl2eEr6jWaLr3Tg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pilar\\source\\repos\\Activities-Project\\Reactivities\\persistence\\Persistence.csproj",
+  "projectFilePath": "C:\\Users\\pilar\\source\\repos\\Activities-Project\\Reactivities\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pilar\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.9\\microsoft.data.sqlite.core.6.0.9.nupkg.sha512",
     "C:\\Users\\pilar\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.9\\microsoft.entityframeworkcore.6.0.9.nupkg.sha512",
